@@ -1,0 +1,3 @@
+This project contains the basics of C programming.
+It includes writing your first C program, the structure of C program, data types and keywords
+and handling standard input and output...
